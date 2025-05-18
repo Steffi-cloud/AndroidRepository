@@ -34,3 +34,6 @@ in the setContent method The ClientRegistration is initialised with the function
 and after that invoking the Greeting method
 
 which renders a message of the user successfully registering in the application
+
+
+NB:none of this is run or test cases written for it
