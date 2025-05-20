@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidApp1</string>
+    <string name="email">email\n</string>
+    <string name="password">password</string>
+    <string name="phone">phone\n</string>
+    <string name="button">Button</string>
+    <string name="register">register</string>
+</resources>
